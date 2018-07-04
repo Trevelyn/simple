@@ -11,3 +11,11 @@ how to
 
   1. STATIC_ROOT='tech/static'
 
+
+
+** Add readme file**
+Read me explains infor bout your code and provides instruction to run the code
+
+
+** Use Env **
+Use python env an provide a requirements.txt file for the project
